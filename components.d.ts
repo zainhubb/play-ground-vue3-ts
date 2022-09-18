@@ -15,7 +15,6 @@ declare module '@vue/runtime-core' {
     ComMouse: typeof import('./src/components/com/mouse.vue')['default']
     Demo: typeof import('./src/components/demo.vue')['default']
     MySlot: typeof import('./src/components/MySlot.vue')['default']
-    NButton: typeof import('naive-ui')['NButton']
     NConfigProvider: typeof import('naive-ui')['NConfigProvider']
     NDrawer: typeof import('naive-ui')['NDrawer']
     NDrawerContent: typeof import('naive-ui')['NDrawerContent']
