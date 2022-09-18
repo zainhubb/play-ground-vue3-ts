@@ -10,7 +10,7 @@ const age = ref(0)
 const toggle = () => {
   age.value++
 }
-getUser()
+// getUser()
 </script>
 
 <style lang="postcss" scoped>
